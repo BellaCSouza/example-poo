@@ -1,0 +1,14 @@
+C:\Users\IzabellaSouza\Documents\Projects\C#_Projects\ExamplePOO\obj\Debug\net8.0\ExamplePOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IzabellaSouza\Documents\Projects\C#_Projects\ExamplePOO\obj\Debug\net8.0\ExamplePOO.AssemblyInfoInputs.cache
+C:\Users\IzabellaSouza\Documents\Projects\C#_Projects\ExamplePOO\obj\Debug\net8.0\ExamplePOO.AssemblyInfo.cs
+C:\Users\IzabellaSouza\Documents\Projects\C#_Projects\ExamplePOO\obj\Debug\net8.0\ExamplePOO.csproj.CoreCompileInputs.cache
+C:\Users\IzabellaSouza\Documents\Projects\C#_Projects\ExamplePOO\bin\Debug\net8.0\ExamplePOO.exe
+C:\Users\IzabellaSouza\Documents\Projects\C#_Projects\ExamplePOO\bin\Debug\net8.0\ExamplePOO.deps.json
+C:\Users\IzabellaSouza\Documents\Projects\C#_Projects\ExamplePOO\bin\Debug\net8.0\ExamplePOO.runtimeconfig.json
+C:\Users\IzabellaSouza\Documents\Projects\C#_Projects\ExamplePOO\bin\Debug\net8.0\ExamplePOO.dll
+C:\Users\IzabellaSouza\Documents\Projects\C#_Projects\ExamplePOO\bin\Debug\net8.0\ExamplePOO.pdb
+C:\Users\IzabellaSouza\Documents\Projects\C#_Projects\ExamplePOO\obj\Debug\net8.0\ExamplePOO.dll
+C:\Users\IzabellaSouza\Documents\Projects\C#_Projects\ExamplePOO\obj\Debug\net8.0\refint\ExamplePOO.dll
+C:\Users\IzabellaSouza\Documents\Projects\C#_Projects\ExamplePOO\obj\Debug\net8.0\ExamplePOO.pdb
+C:\Users\IzabellaSouza\Documents\Projects\C#_Projects\ExamplePOO\obj\Debug\net8.0\ExamplePOO.genruntimeconfig.cache
+C:\Users\IzabellaSouza\Documents\Projects\C#_Projects\ExamplePOO\obj\Debug\net8.0\ref\ExamplePOO.dll
