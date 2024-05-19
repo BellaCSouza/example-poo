@@ -7,6 +7,9 @@ namespace ExamplePOO.Models
 {
     public class Professor : Person
     {
+        public Professor(string name) : base(name) {}
+
+    public Professor() {}
          public decimal Salary { get; set; }
          public override void Introduce() {
             Console.WriteLine($"Hello! My name is {Name}, I'm {Age} and I earn R${Salary}");

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\IzabellaSouza\\Documents\\Projects\\C#_Projects\\ExamplePOO\\ExamplePOO.csproj": {}
+    "C:\\Users\\Bella\\OneDrive\\Documentos\\Training\\DIO\\.NetDeveloper\\example-poo\\ExamplePOO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\IzabellaSouza\\Documents\\Projects\\C#_Projects\\ExamplePOO\\ExamplePOO.csproj": {
+    "C:\\Users\\Bella\\OneDrive\\Documentos\\Training\\DIO\\.NetDeveloper\\example-poo\\ExamplePOO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IzabellaSouza\\Documents\\Projects\\C#_Projects\\ExamplePOO\\ExamplePOO.csproj",
+        "projectUniqueName": "C:\\Users\\Bella\\OneDrive\\Documentos\\Training\\DIO\\.NetDeveloper\\example-poo\\ExamplePOO.csproj",
         "projectName": "ExamplePOO",
-        "projectPath": "C:\\Users\\IzabellaSouza\\Documents\\Projects\\C#_Projects\\ExamplePOO\\ExamplePOO.csproj",
-        "packagesPath": "C:\\Users\\IzabellaSouza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IzabellaSouza\\Documents\\Projects\\C#_Projects\\ExamplePOO\\obj\\",
+        "projectPath": "C:\\Users\\Bella\\OneDrive\\Documentos\\Training\\DIO\\.NetDeveloper\\example-poo\\ExamplePOO.csproj",
+        "packagesPath": "C:\\Users\\Bella\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bella\\OneDrive\\Documentos\\Training\\DIO\\.NetDeveloper\\example-poo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\IzabellaSouza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Bella\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

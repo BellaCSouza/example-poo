@@ -1,8 +1,26 @@
 ﻿using ExamplePOO.Models;
+using ExamplePOO.Interfaces;
 
-Current current = new Current();
-current.Credit(100);
-current.DisplayBalance();
+ICalculator calculator = new Calculator();
+Console.WriteLine(calculator.Split(44, 2));
+
+//------------------------------------
+
+//Computer computer = new Computer();
+//computer.ToString();
+
+//------------------------------------
+
+//Person person = new Person("Bella");
+//Student student = new Student("Natasha");
+//Professor professor = new Professor("Renato");
+//professor.Introduce();
+
+//------------------------------------
+
+//Current current = new Current();
+//current.Credit(100);
+//current.DisplayBalance();
 
 //------------------------------------
 

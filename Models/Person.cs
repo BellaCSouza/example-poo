@@ -11,6 +11,11 @@ namespace ExamplePOO.Models
         {
             Name = name;
         }
+
+        public Person()
+        {
+            
+        }
         
         public string Name { get; set; }
         public int Age { get; set; }
